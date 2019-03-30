@@ -174,13 +174,14 @@
     "editorHoverWidget.background": "#070316e5",
     "editorHoverWidget.border": "#0a477041",
     "editorSuggestWidget.border": "#0f0f0fce",
-    "editorSuggestWidget.foreground": "#ffffff",
-    "editorWidget.background": "#0c0d0e",
     "editorSuggestWidget.selectedBackground": "#0a47704d",
     "editorSuggestWidget.background": "#070316e5",
+    "editorSuggestWidget.foreground": "#ffffff",
+    "editorWidget.background": "#0c0d0e",
     "peekViewEditor.matchHighlightBackground": "#000dff3e",
     "editor.lineHighlightBackground": "#19018500",
-    "editor.lineHighlightBorder": "#19018500"
+    "editor.lineHighlightBorder": "#19018500",
+    "editorSuggestWidget.highlightForeground": "#ff0080",
     // !! OLD PROPERTIES
     // "peekViewEditor.matchHighlightBackground": "#131d37b0",
     // "tab.hoverBackground": "#12044450",
