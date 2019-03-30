@@ -1,0 +1,13 @@
+{
+    "name": "xotopio.dark",
+    "publisher": "xotopio",
+    "displayName": "xotopio.dark",
+    "description": "deep dark neon and navy theme",
+    "version": "0.0.1",
+    "category": "Theme",
+    "engines": {"vscode": "^1.32.0"},
+    "categories": ["Themes"],
+    "contributes": {"themes": [ {"label": "xotopio.dark", "uiTheme": "vs-dark", "path": "./themes/xotopio-color-theme.json"}]},
+    "dependencies": {"vsce": "^1.0.0"},
+    "__metadata": {"id": "", "publisherId": "", "publisherDisplayName": "xotopio.dark"}
+}
