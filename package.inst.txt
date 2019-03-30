@@ -1,0 +1,6 @@
+bash: 
+
+vsce publish __
+vsce unpublish ___
+
+-- error: missing required argument `publisher'
