@@ -12,20 +12,29 @@ git clone https://github.com/xotopio/xotopio.dark
 ```
 
 ### HTML:
-![html]("/imgs/examples/html.png")
+<section data-markdown>
+<img src="./imgs/examples/html.png" width="700" height="600">
+</section>
 
 ### JAVA:
-![java]("/imgs/examples/java.png")
+<section data-markdown>
+<img src="./imgs/examples/java.png" width="700" height="600">
+</section>
 
 ### Javascript:
-![javascript]("/imgs/examples/html.png")
+<section data-markdown>
+<img src="./imgs/examples/js.png" width="800" height="600">
+</section>
 
 ### CSS:
-![css]("/imgs/examples/css.png")
+<section data-markdown>
+<img src="./imgs/examples/css.png" width="250" height="550">
+</section>
 
 ## Contact
 by [xotopio](https://github.com/xotopio)
 
-[license]()
+<!-- [license]() -->
 
 **Enjoy!**
+   
