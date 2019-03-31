@@ -13,22 +13,23 @@ git clone https://github.com/xotopio/xotopio.dark
 
 ### HTML:
 <section data-markdown>
-<img src="./imgs/examples/html.png" width="700" height="600">
+<img href="https://github.com/xotopio/xotopio.dark/blob/master/imgs/examples/html.png" width="700" height="600">
 </section>
 
 ### JAVA:
 <section data-markdown>
-<img src="./imgs/examples/java.png" width="700" height="600">
+<img href="https://github.com/xotopio/xotopio.dark/blob/master/imgs/examples/java.png" width="700" height="600">
 </section>
 
 ### Javascript:
 <section data-markdown>
-<img src="./imgs/examples/js.png" width="800" height="600">
+<img href="https://github.com/xotopio/xotopio.dark/blob/master/imgs/examples/js.png" width="700" height="600">
 </section>
+
 
 ### CSS:
 <section data-markdown>
-<img src="./imgs/examples/css.png" width="250" height="550">
+<img href="https://github.com/xotopio/xotopio.dark/blob/master/imgs/examples/js.png" width="400" height="700">
 </section>
 
 ## Contact
