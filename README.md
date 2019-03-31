@@ -12,12 +12,20 @@ git clone https://github.com/xotopio/xotopio.dark
 ```
 
 ### HTML:
+![html]("/imgs/examples/html.png")
+
 ### JAVA:
-### C#:
+![java]("/imgs/examples/java.png")
+
+### Javascript:
+![javascript]("/imgs/examples/html.png")
+
+### CSS:
+![css]("/imgs/examples/css.png")
 
 ## Contact
 by [xotopio](https://github.com/xotopio)
 
-[License]()
+[license]()
 
 **Enjoy!**
