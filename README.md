@@ -11,27 +11,23 @@ Download it from the [Marketplace](https://marketplace.visualstudio.com/items?it
 git clone https://github.com/xotopio/xotopio.dark
 ```
 
-### HTML:
-<section data-markdown>
+#### HTML:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/html.png" width="700" height="600">
-</section>
 
-### JAVA:
-<section data-markdown>
+
+#### JAVA:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/java.png" width="700" height="600">
-</section>
 
-### Javascript:
-<section data-markdown>
+
+#### Javascript:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/js.png" width="700" height="600">
-</section>
 
-### CSS:
-<section data-markdown>
+
+#### CSS:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/css.png" width="400" height="700">
-</section>
 
-## Contact
+
+##### Contact
 by [xotopio](https://github.com/xotopio)
 
 <!-- [license]() -->
