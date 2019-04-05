@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "Xotopio" extension will be documented in this file.
 
+## [xotopio-dark-0.6.0]
+- fix images
+
 ## [xotopio-dark-0.5.0]
 - added images
 

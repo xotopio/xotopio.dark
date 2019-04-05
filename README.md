@@ -24,7 +24,7 @@ git clone https://github.com/xotopio/xotopio.dark
 
 
 #### CSS:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/css.png" width="400" height="700">
+<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/css.png" width="300" height="580">
 
 
 ##### Contact
