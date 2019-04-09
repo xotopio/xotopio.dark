@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "Xotopio" extension will be documented in this file.
 
+## [xotopio-dark-0.8.0]
+- cursor rose
+
+## [xotopio-dark-0.7.0]
+- color change
+
 ## [xotopio-dark-0.6.0]
 - fix images
 
