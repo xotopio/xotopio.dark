@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "Xotopio" extension will be documented in this file.
 
+## [xotopio-dark-0.10.0]
+- clean comment and sidebar
+
+## [xotopio-dark-0.9.0]
+- small fix on color
+
 ## [xotopio-dark-0.8.0]
 - cursor rose
 
