@@ -5,6 +5,7 @@
 	"type": "dark",
 	"semanticClass": "xotopio",
 	"colors": {
+		
 		"tab.inactiveForeground": "#363961cd",
 		"activityBar.inactiveForeground": "#35374971",
 		"activityBarBadge.background": "#85245edc",
