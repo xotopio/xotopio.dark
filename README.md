@@ -23,8 +23,8 @@ git clone https://github.com/xotopio/xotopio.dark
 #### CSS:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/css.png" width="300" height="580">
 
-#### IN BLACK AND WHITE : Xotopio-light |  Xotopio-Dark
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/new.png" width="700" height="380">
+#### IN BLACK AND WHITE : Xotopio-light | Xotopio-Dark
+<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/new.png">
 
 ##### Contact
 by [xotopio](https://github.com/xotopio)
