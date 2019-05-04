@@ -14,13 +14,11 @@
         "vscode": "^1.32.0"
     },
     "contributes": {
-        "themes": [
-            {
-                "label": "xotopio-dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/xotopio-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "xotopio-dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/xotopio-color-theme.json"
+        }]
     },
     "dependencies": {
         "vsce": "^1.0.0"
