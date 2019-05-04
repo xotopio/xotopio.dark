@@ -3,7 +3,7 @@
     "displayName": "xotopio-dark",
     "publisher": "xotopio",
     "description": "deep dark neon and navy theme",
-    "version": "0.16.0",
+    "version": "0.17.0",
     "icon": "icon.png",
     "category": "Theme",
     "repository": "https://github.com/xotopio/xotopio.dark",
@@ -14,11 +14,13 @@
         "vscode": "^1.32.0"
     },
     "contributes": {
-        "themes": [{
-            "label": "xotopio-dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/xotopio-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "xotopio-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xotopio-color-theme.json"
+            }
+        ]
     },
     "dependencies": {
         "vsce": "^1.0.0"
