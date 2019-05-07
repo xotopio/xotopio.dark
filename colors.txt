@@ -19,5 +19,3 @@ purple:     #B60DFC
 orange:     #ff9c31
 yellow:     #fff900
 green:      #08fbcf
-
-
