@@ -24,10 +24,10 @@ git clone https://github.com/xotopio/xotopio.dark
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/css.png" width="300" height="580">
 
 #### C++:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/c++.png" width="300" height="580">
+<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/c++.png"  width="720" height="580">
 
 #### Ruby:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/ruby.png" width="300" height="580">
+<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/ruby.png"  width="700" height="580">
 
 #### IN BLACK AND WHITE : Xotopio-light | Xotopio-Dark
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/new.png" width="800" height="500">
