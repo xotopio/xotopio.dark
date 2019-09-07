@@ -11,6 +11,19 @@ Download it from the [Marketplace](https://marketplace.visualstudio.com/items?it
 git clone https://github.com/xotopio/xotopio.dark
 ```
 
+
+## Support language
+
+- [x] HTML
+- [x] VUE-HTML
+- [x] CSS
+- [x] SCSS
+- [ ] SASS
+- [ ] LESS
+- [ ] Stylus
+- [x] JavaScript
+- [x] Markdown
+
 #### HTML:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/html.png" width="700" height="600">
 
