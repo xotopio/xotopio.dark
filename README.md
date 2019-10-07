@@ -56,6 +56,9 @@ git clone https://github.com/xotopio/xotopio.dark
 #### Javascript:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/js.png" width="700" height="600">
 
+#### Javascript Glow:
+<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/jsg.png" width="700" height="600">
+
 #### CSS:
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/css.png" width="300" height="580">
 
